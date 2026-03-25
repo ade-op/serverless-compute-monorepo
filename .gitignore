@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Build artifacts
+build/
+
+# Environment files (just in case)
+*.env
+
+# Mac junk
+.DS_Store
